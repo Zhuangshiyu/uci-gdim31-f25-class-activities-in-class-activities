@@ -1,7 +1,7 @@
 # in-class-activities
 ## Devlogs
 ### W1
-Write your W1 activity Devlog here.
+Our table decided that the single most important thing you can do in this class is ask a friend to test your game builds on Itch.io.
 
 ### W2
 Create future Devlog sub-headers with the three # symbols, then write your Devlogs below them.
