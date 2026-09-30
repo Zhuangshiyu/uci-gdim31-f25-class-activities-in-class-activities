@@ -5,6 +5,10 @@
 2. There is something wrong with my rendering fuction in unity. So I post this image to show I just actively complete our in-class activity.
 <img width="1272" height="792" alt="image" src="https://github.com/user-attachments/assets/72931967-be92-402b-ab4e-e18b6d584f20" />
 
+I successfully built and ran my project, and the project has been posted on itcho shown below.
+
+<img width="1271" height="725" alt="image" src="https://github.com/user-attachments/assets/35aebd17-710c-432b-9a07-0ac3251b8994" />
+
 
 ### W2
 Create future Devlog sub-headers with the three # symbols, then write your Devlogs below them.
