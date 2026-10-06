@@ -4,8 +4,11 @@
 Write your W1 activity Devlog here.
 
 ### W2
-Create future Devlog sub-headers with the three # symbols, then write your Devlogs below them.
+#I displayed the number of bounces on screen by combining the string Bounce with the _bounces variable.
 
+#I learned that colors are stored as RGB channels. I used the red, green, and blue variables to control the ball's color.
+
+#I tested the game and adjusted the bounce text and ball color to make sure everything displayed correctly.
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
