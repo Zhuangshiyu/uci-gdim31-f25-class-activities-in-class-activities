@@ -20,6 +20,11 @@ Our table decided that the single most important thing you can do in this class 
 1.I displayed the number of bounces on screen by combining the string Bounces with the _bounces variable.
 2.I learned that colors are stored as RGB channels. I used the red, green, and blue variables to control the ball's color.
 3.no semicolon in the final step.
+
+### W3
+1. input:int, boolean; output: String
+2. input:float
+3. input&output: boolean
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
