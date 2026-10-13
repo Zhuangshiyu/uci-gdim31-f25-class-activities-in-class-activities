@@ -6,6 +6,11 @@ Write your W1 activity Devlog here.
 ### W2
 Create future Devlog sub-headers with the three # symbols, then write your Devlogs below them.
 
+### W3
+1. intput:int, boolean; output:String
+2. input:float
+3. intput&output: boolean
+
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
