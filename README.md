@@ -22,9 +22,14 @@ Our table decided that the single most important thing you can do in this class 
 3.no semicolon in the final step.
 
 ### W3
+### Activity 1
 1. input:int, boolean; output: String
 2. input:float
 3. input&output: boolean
+### Activtiy 2
+A class is like a person, a component is the job they want to apply for, a variable represents their personal traits, and a method represents a specific skill or ability they have.
+
+
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
