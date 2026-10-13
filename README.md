@@ -28,6 +28,9 @@ Our table decided that the single most important thing you can do in this class 
 3. input&output: boolean
 ### Activtiy 2
 A class is like a person, a component is the job they want to apply for, a variable represents their personal traits, and a method represents a specific skill or ability they have.
+### Activtiy 3
+ballRenderer.color *= GetColorMultiplier(Mathf.Abs(_rigidbody.linearVelocity.x), Mathf.Abs(_rigidbody.linearVelocity.y));
+becuase it applies the method--GetColorMultiplier.
 
 
 ## Open-Source Assets
