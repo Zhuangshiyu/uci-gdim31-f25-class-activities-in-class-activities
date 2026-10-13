@@ -22,6 +22,7 @@ Our table decided that the single most important thing you can do in this class 
 3.no semicolon in the final step.
 
 ### W3
+Table 16
 ### Activity 1
 1. input:int, boolean; output: String
 2. input:float
