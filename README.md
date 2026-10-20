@@ -33,6 +33,9 @@ A class is like a person, a component is the job they want to apply for, a varia
 ballRenderer.color *= GetColorMultiplier(Mathf.Abs(_rigidbody.linearVelocity.x), Mathf.Abs(_rigidbody.linearVelocity.y));
 becuase it applies the method--GetColorMultiplier.
 
+### W4
+1. click add component in the gameobjects' inspector, and from my point of view, rigidbody can be considered to a way to make an object physical. So all of these three objects need a Rigidbody, and the only difference is that the Goal has the Is Trigger option enabled.
+2. My game did not work good at the first time--the cat is suspended in the mid-air. I finally figured out that the collider detector extends below the ground, so when the collision happens, the cat would be knocked into mid-air.
 
 ## Open-Source Assets
 ### W1
