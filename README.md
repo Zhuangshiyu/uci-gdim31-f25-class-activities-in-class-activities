@@ -42,6 +42,8 @@ becuase it applies the method--GetColorMultiplier.
 2.Start()
 3.The method is used to first get the component in NavMeshAgent and then set destination of the target.
 Table 16
+Xinyue Zhang
+XiangYi Li
 ###Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
