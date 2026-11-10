@@ -37,13 +37,18 @@ becuase it applies the method--GetColorMultiplier.
 1. click add component in the gameobjects' inspector, and from my point of view, rigidbody can be considered to a way to make an object physical. So all of these three objects need a Rigidbody, and the only difference is that the Goal has the Is Trigger option enabled.
 2. My game did not work good at the first time--the cat is suspended in the mid-air. I finally figured out that the collider detector extends below the ground, so when the collision happens, the cat would be knocked into mid-air.
 
-### W5
+### W6
 1.The class needs two member variables: one Transform variable for the target and one NavMeshAgent variable for the deer's movement.
 2.Start()
 3.The method is used to first get the component in NavMeshAgent and then set destination of the target.
 Table 16
 Xinyue Zhang
 XiangYi Li
+
+### W7
+I did the Unity Engine part.
+https://docs.google.com/document/d/1W83E18EwXXSdkScO6OmRU6EeHu7ACjFLijvjSUNB8QA/edit?tab=t.0
+
 ### Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
