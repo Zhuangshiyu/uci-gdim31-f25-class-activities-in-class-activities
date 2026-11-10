@@ -59,7 +59,7 @@ Methods and what they do:
 Table 16
 Xinyue Zhang
 Xiangyi Li
-Yao Du
+Patrick Du
 
 ### Open-Source Assets
 ### W1
