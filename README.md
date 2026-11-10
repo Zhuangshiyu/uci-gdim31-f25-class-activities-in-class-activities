@@ -48,6 +48,18 @@ XiangYi Li
 ### W7
 I did the Unity Engine part.
 https://docs.google.com/document/d/1W83E18EwXXSdkScO6OmRU6EeHu7ACjFLijvjSUNB8QA/edit?tab=t.0
+Member variables:
+- A serialized float variable to store the speed.
+- A serialized Cat component as the chase target, which can be assigned in the Inspector.
+Methods and what they do:
+- Update(): Move toward the Cat every frame.
+- public Stop(): Set enabled to false to stop running Update().
+- public StartChasing(): Set enabled to true to resume running Update().
+- Start(): Call StartChasing() to make the bat start chasing immediately when the game begins.
+Table 16
+Xinyue Zhang
+Xiangyi Li
+Yao Du
 
 ### Open-Source Assets
 ### W1
