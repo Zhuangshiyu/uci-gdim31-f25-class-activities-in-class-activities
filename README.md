@@ -38,9 +38,10 @@ becuase it applies the method--GetColorMultiplier.
 2. My game did not work good at the first time--the cat is suspended in the mid-air. I finally figured out that the collider detector extends below the ground, so when the collision happens, the cat would be knocked into mid-air.
 
 ### W6
-1.The class needs two member variables: one Transform variable for the target and one NavMeshAgent variable for the deer's movement.
-2.Start()
-3.The method is used to first get the component in NavMeshAgent and then set destination of the target.
+1. The class needs two member variables: one Transform variable for the target and one NavMeshAgent variable for the deer's movement.
+2. Start()
+3. The method is used to first get the component in NavMeshAgent and then set destination of the target.
+
 Table 16
 Xinyue Zhang
 XiangYi Li
