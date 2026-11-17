@@ -62,6 +62,10 @@ Xinyue Zhang
 Xiangyi Li
 Patrick Du
 
+### W8
+what was wrong with the code in Step 2?
+The problem lies in the difference between Vector3 and transform. Vector3 is used to define a direction in global, so the player will always walk along world's Z axis, while transform is used to define the player's position in local, so the player will walk along the direction based on the direction he is facing.
+
 ### Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
